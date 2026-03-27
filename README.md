@@ -1,18 +1,14 @@
-# QA-Commerce
-
-### Loja virtual Geek para simulação de testes 
-
-## Clonando e executando em sua máquina
+# Teste Keeggo
 
 ### Pré-requisito:
 
--Node.js - Você encontra em: https://nodejs.org/en/
--Visual Studio Code ( ou editor de sua prefrência) - você encontra em: https://code.visualstudio.com/download
--Git: você encontra em: https://git-scm.com/downloads
+-Node.js - versao utilizada no v20.20.2
+-Visual Studio Code
+-Git
 
 Via terminal, rode os seguintes comandos:
 ```  
-git clone https://github.com/fabioaraujoqa/qa-commerce.git
+git clone 
 ```
 ```
 cd qa-commerce
