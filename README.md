@@ -24,15 +24,19 @@ npm install
 npm start
 ```
 
+#### Para iniciar o cypress no navegador
+```
+npm npx cypress open
+```
+#### Para iniciar o cypress no terminal
+```
+npm npx cypress run
+```
+
 No console vai aparecer os endereços do site e do banco. 
 O site você acessaem: http://localhost:3000/
 
 A documentação funciona em: http://localhost:3000/api-docs/
 
 *Parceria: Fábio Araújo, Bruna Emerich e Tamara Fontanella
-
-
-
-
-
 
