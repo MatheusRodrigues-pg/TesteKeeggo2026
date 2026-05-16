@@ -1,5 +1,3 @@
-# Teste Keeggo
-
 ### Pré-requisito:
 
 -Node.js - versao utilizada no v20.20.2
